@@ -16,3 +16,7 @@
 
 #define RGB_MATRIX_STARTUP_SPD 60
 
+
+
+// Options not available in Oryx (only QMK)
+#define RETRO_SHIFT
